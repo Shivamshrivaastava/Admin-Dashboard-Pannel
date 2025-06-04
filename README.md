@@ -64,7 +64,7 @@ Build Admin-Dashboard-Pannel from the source and install dependencies:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Shivamshrivaastava/Admin-Dashboard-Pannel
+   https://github.com/Shivamshrivaastava/Admin-Dashboard-Pannel.git
    ```
 
 2. **Navigate to the project directory:**
